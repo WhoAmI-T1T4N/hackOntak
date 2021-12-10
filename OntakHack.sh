@@ -40,11 +40,11 @@ echo -e $we "10%"
 sleep 6
 clear
 echo -e $rd "Tungguu Yaa =============-------------------------------------"
-echo -e $we "30%
+echo -e $we "30%"
 sleep 6
 clear
 echo -e $rd "Tungguu Yaa =========================-------------------------"
-echo -e $we "50%
+echo -e $we "50%"
 sleep 6
 clear
 echo -e $rd "Tungguu Yaa ====================================---------------"
@@ -183,7 +183,7 @@ echo -e $we "Sedang Di Kembalikan"
 sleep 0.1
 bash OntakHack.sh
 fi
-if [[ $lp == 2 || $ lp == 2 ]]
+if [[ $lp == 2 || $lp == 2 ]]
 then
 clear
 echo -e $rd "██████╗  █████╗ ██████╗  █████╗ ██╗  ██╗"
